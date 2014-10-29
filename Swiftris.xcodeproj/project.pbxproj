@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		47AB48221A00D80E00051CC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48211A00D80E00051CC9 /* AppDelegate.swift */; };
-		47AB48241A00D80E00051CC9 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 47AB48231A00D80E00051CC9 /* GameScene.sks */; };
 		47AB48261A00D80E00051CC9 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48251A00D80E00051CC9 /* GameScene.swift */; };
 		47AB48281A00D80E00051CC9 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48271A00D80E00051CC9 /* GameViewController.swift */; };
 		47AB482B1A00D80E00051CC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47AB48291A00D80E00051CC9 /* Main.storyboard */; };
@@ -31,7 +30,6 @@
 		47AB481C1A00D80E00051CC9 /* Swiftris.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swiftris.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47AB48201A00D80E00051CC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47AB48211A00D80E00051CC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		47AB48231A00D80E00051CC9 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		47AB48251A00D80E00051CC9 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		47AB48271A00D80E00051CC9 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		47AB482A1A00D80E00051CC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -82,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				47AB48211A00D80E00051CC9 /* AppDelegate.swift */,
-				47AB48231A00D80E00051CC9 /* GameScene.sks */,
 				47AB48251A00D80E00051CC9 /* GameScene.swift */,
 				47AB48271A00D80E00051CC9 /* GameViewController.swift */,
 				47AB48291A00D80E00051CC9 /* Main.storyboard */,
@@ -200,7 +197,6 @@
 			files = (
 				47AB48301A00D80E00051CC9 /* LaunchScreen.xib in Resources */,
 				47AB482D1A00D80E00051CC9 /* Images.xcassets in Resources */,
-				47AB48241A00D80E00051CC9 /* GameScene.sks in Resources */,
 				47AB482B1A00D80E00051CC9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
