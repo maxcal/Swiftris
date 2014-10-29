@@ -25,6 +25,7 @@
 		47AB485A1A00DE7700051CC9 /* gameboard@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 47AB48541A00DE7700051CC9 /* gameboard@2x.png */; };
 		47AB485B1A00DE7700051CC9 /* whitebg.png in Resources */ = {isa = PBXBuildFile; fileRef = 47AB48551A00DE7700051CC9 /* whitebg.png */; };
 		47AB485C1A00DE7700051CC9 /* whitebg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 47AB48561A00DE7700051CC9 /* whitebg@2x.png */; };
+		47AB485E1A00E6CE00051CC9 /* Array2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB485D1A00E6CE00051CC9 /* Array2D.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		47AB48541A00DE7700051CC9 /* gameboard@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gameboard@2x.png"; sourceTree = "<group>"; };
 		47AB48551A00DE7700051CC9 /* whitebg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebg.png; sourceTree = "<group>"; };
 		47AB48561A00DE7700051CC9 /* whitebg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whitebg@2x.png"; sourceTree = "<group>"; };
+		47AB485D1A00E6CE00051CC9 /* Array2D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array2D.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				47AB48271A00D80E00051CC9 /* GameViewController.swift */,
 				47AB48291A00D80E00051CC9 /* Main.storyboard */,
 				47AB482C1A00D80E00051CC9 /* Images.xcassets */,
+				47AB485D1A00E6CE00051CC9 /* Array2D.swift */,
 				47AB482E1A00D80E00051CC9 /* LaunchScreen.xib */,
 				47AB48451A00DDEF00051CC9 /* Sounds */,
 				47AB481F1A00D80E00051CC9 /* Supporting Files */,
@@ -276,6 +279,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				47AB48261A00D80E00051CC9 /* GameScene.swift in Sources */,
+				47AB485E1A00E6CE00051CC9 /* Array2D.swift in Sources */,
 				47AB48281A00D80E00051CC9 /* GameViewController.swift in Sources */,
 				47AB48221A00D80E00051CC9 /* AppDelegate.swift in Sources */,
 			);
@@ -469,6 +473,7 @@
 				47AB48411A00D80E00051CC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		47AB48421A00D80E00051CC9 /* Build configuration list for PBXNativeTarget "SwiftrisTests" */ = {
 			isa = XCConfigurationList;
@@ -477,6 +482,7 @@
 				47AB48441A00D80E00051CC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
