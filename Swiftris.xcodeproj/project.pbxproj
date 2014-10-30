@@ -30,6 +30,7 @@
 		47AB48621A01414500051CC9 /* Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48611A01414500051CC9 /* Shape.swift */; };
 		47AB48641A02132900051CC9 /* TShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48631A02132900051CC9 /* TShape.swift */; };
 		47AB48661A02154B00051CC9 /* LineShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48651A02154B00051CC9 /* LineShape.swift */; };
+		47AB48681A02178300051CC9 /* LShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48671A02178300051CC9 /* LShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		47AB48611A01414500051CC9 /* Shape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shape.swift; sourceTree = "<group>"; };
 		47AB48631A02132900051CC9 /* TShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TShape.swift; path = ../TShape.swift; sourceTree = "<group>"; };
 		47AB48651A02154B00051CC9 /* LineShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LineShape.swift; sourceTree = "<group>"; };
+		47AB48671A02178300051CC9 /* LShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				47AB481F1A00D80E00051CC9 /* Supporting Files */,
 				47AB48611A01414500051CC9 /* Shape.swift */,
 				47AB48651A02154B00051CC9 /* LineShape.swift */,
+				47AB48671A02178300051CC9 /* LShape.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 				47AB485E1A00E6CE00051CC9 /* Array2D.swift in Sources */,
 				47AB48661A02154B00051CC9 /* LineShape.swift in Sources */,
 				47AB48641A02132900051CC9 /* TShape.swift in Sources */,
+				47AB48681A02178300051CC9 /* LShape.swift in Sources */,
 				47AB48601A01093500051CC9 /* Block.swift in Sources */,
 				47AB48281A00D80E00051CC9 /* GameViewController.swift in Sources */,
 				47AB48221A00D80E00051CC9 /* AppDelegate.swift in Sources */,
