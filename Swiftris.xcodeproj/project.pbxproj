@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		47892F1A1A02CD8700B67D31 /* SquareShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47892F191A02CD8700B67D31 /* SquareShape.swift */; };
 		47AB48221A00D80E00051CC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48211A00D80E00051CC9 /* AppDelegate.swift */; };
 		47AB48261A00D80E00051CC9 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48251A00D80E00051CC9 /* GameScene.swift */; };
 		47AB48281A00D80E00051CC9 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47AB48271A00D80E00051CC9 /* GameViewController.swift */; };
@@ -47,6 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		47892F191A02CD8700B67D31 /* SquareShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SquareShape.swift; sourceTree = "<group>"; };
 		47AB481C1A00D80E00051CC9 /* Swiftris.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swiftris.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47AB48201A00D80E00051CC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47AB48211A00D80E00051CC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				47AB48651A02154B00051CC9 /* LineShape.swift */,
 				47AB48671A02178300051CC9 /* LShape.swift */,
 				47AB486D1A0219C000051CC9 /* ZShape.swift */,
+				47892F191A02CD8700B67D31 /* SquareShape.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				47AB48661A02154B00051CC9 /* LineShape.swift in Sources */,
 				47AB48641A02132900051CC9 /* TShape.swift in Sources */,
 				47AB486E1A0219C000051CC9 /* ZShape.swift in Sources */,
+				47892F1A1A02CD8700B67D31 /* SquareShape.swift in Sources */,
 				47AB48681A02178300051CC9 /* LShape.swift in Sources */,
 				47AB486C1A0218FB00051CC9 /* SShape.swift in Sources */,
 				47AB48601A01093500051CC9 /* Block.swift in Sources */,
