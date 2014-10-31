@@ -11,7 +11,7 @@
 // Our game logic will require a single copy of this data structure to persist across the entire game.
 // Notice that in the class' declaration we provide a typed parameter: <T>. 
 // This allows our array to store any type of data and therefore remain a general-purpose tool.
-class ArrayTD<T> {
+class Array2D<T> {
     let columns : Int
     let rows : Int
     
